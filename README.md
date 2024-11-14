@@ -2,7 +2,7 @@
 
 ### Focustry
 
-<div align="center"><img src="https://pngimg.com/d/parrot_PNG710.png" width="150px" height="auto" alt="Logo"></div>
+<div align="center"><img src="https://pngimg.com/d/parrot_PNG718.png" width="150px" height="auto" alt="Logo"></div>
 <p align="center">Productivity App</p>
 
 <div align="center"><a href="https://github.com/Evanna456/Focustry"><img src="https://github.com/Evanna456/Evanna456/blob/main/github-mark.png" width="30px" height="auto" alt="Logo"></a></div>
