@@ -7,6 +7,7 @@
 
 <div align="center"><a href="https://github.com/Evanna456/Lara-Validation"><img src="https://github.com/Evanna456/Evanna456/blob/main/github-mark.png" width="30px" height="auto" alt="Logo"></a>&nbsp<a href="https://www.youtube.com/watch?v=ADQKy4mmIko"><img src="https://github.com/Evanna456/Evanna456/blob/main/youtube.png" width="30px" height="auto" alt="Logo"></a></div>
 <hr>
+
 ### Melody
 
 <div align="center"><img src="https://i.imgur.com/rgwJljb.png" width="150px" height="auto" alt="Logo"></div></p>
@@ -14,6 +15,7 @@
 
 <div align="center"><a href="https://github.com/Evanna456/Melody"><img src="https://github.com/Evanna456/Evanna456/blob/main/github-mark.png" width="30px" height="auto" alt="Logo"></a>&nbsp<a href="https://www.youtube.com/watch?v=UUzycnE7l5c"><img src="https://github.com/Evanna456/Evanna456/blob/main/youtube.png" width="30px" height="auto" alt="Logo"></a></div>
 <hr>
+
 ### Point of Sale App
 
 <div align="center"><img src="https://i.imgur.com/Ya6GY6J.png" width="150px" height="auto" alt="Logo"></div></p>
