@@ -2,10 +2,10 @@
 
 ### Focustry
 
-<div align="center"><h1>🦜</h1></div>
-<p align="center">A collection of validation libraries for various programming langauges</p>
+<div align="center">🦜</div>
+<p align="center">Productivity App</p>
 
-<div align="center"><a href="https://github.com/Evanna456/Lara-Validation"><img src="https://github.com/Evanna456/Evanna456/blob/main/github-mark.png" width="30px" height="auto" alt="Logo"></a>&nbsp<a href="https://www.youtube.com/watch?v=ADQKy4mmIko"><img src="https://github.com/Evanna456/Evanna456/blob/main/youtube.png" width="30px" height="auto" alt="Logo"></a></div>
+<div align="center"><a href="https://github.com/Evanna456/Focustry"><img src="https://github.com/Evanna456/Evanna456/blob/main/github-mark.png" width="30px" height="auto" alt="Logo"></a></div>
 <hr>
 
 ### Lara-Validation
