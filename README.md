@@ -11,7 +11,7 @@
 ### Lara-Validation
 
 <div align="center"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/194_Laravel-512.png" width="150px" height="auto" alt="Logo"></div>
-<p align="center">A collection of validation libraries for various programming langauges</p>
+<p align="center">A collection of validation libraries for various programming languages</p>
 
 <div align="center"><a href="https://github.com/Evanna456/Lara-Validation"><img src="https://github.com/Evanna456/Evanna456/blob/main/github-mark.png" width="30px" height="auto" alt="Logo"></a>&nbsp<a href="https://www.youtube.com/watch?v=ADQKy4mmIko"><img src="https://github.com/Evanna456/Evanna456/blob/main/youtube.png" width="30px" height="auto" alt="Logo"></a></div>
 <hr>
