@@ -10,7 +10,7 @@
 <div align="center"><img src="https://i.imgur.com/Ya6GY6J.png" width="150px" height="auto" alt="Logo"></div></p>
 <p align="center">A thick client pos application that works offline.</p>
 
-<div align="center"><img src="https://github.com/Evanna456/Evanna456/blob/main/github-mark.png" width="30px" height="auto" alt="Logo"></div></p>
+<div align="center"><img src="[https://github.com/Evanna456/Evanna456/blob/main/github-mark.png](https://github.com/Evanna456/Evanna456/blob/main/github-mark.png)" width="30px" height="auto" alt="Logo"></div></p>
 
 <!--
 **Evanna456/Evanna456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
