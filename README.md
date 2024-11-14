@@ -16,6 +16,14 @@
 <div align="center"><a href="https://github.com/Evanna456/Melody"><img src="https://github.com/Evanna456/Evanna456/blob/main/github-mark.png" width="30px" height="auto" alt="Logo"></a>&nbsp<a href="https://www.youtube.com/watch?v=UUzycnE7l5c"><img src="https://github.com/Evanna456/Evanna456/blob/main/youtube.png" width="30px" height="auto" alt="Logo"></a></div>
 <hr>
 
+### Discord-CrimBOT
+
+<div align="center"><img src="https://github.com/Evanna456/Discord-CrimBOT/blob/main/docs/CrimBOT.png" width="150px" height="auto" alt="Logo"></div></p>
+<p align="center">A multi-utility Discord BOT</p>
+
+<div align="center"><a href="https://github.com/Evanna456/Discord-CrimBOT"><img src="https://github.com/Evanna456/Evanna456/blob/main/github-mark.png" width="30px" height="auto" alt="Logo"></a>&nbsp<a href="https://www.youtube.com/watch?v=PIsCuLLSkaA"><img src="https://github.com/Evanna456/Evanna456/blob/main/youtube.png" width="30px" height="auto" alt="Logo"></a></div>
+<hr>
+
 ### Point of Sale App
 
 <div align="center"><img src="https://i.imgur.com/Ya6GY6J.png" width="150px" height="auto" alt="Logo"></div></p>
